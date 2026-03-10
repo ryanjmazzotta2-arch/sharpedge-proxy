@@ -1,0 +1,9 @@
+{
+  "name": "sharpedge-proxy",
+  "version": "1.0.0",
+  "description": "SharpEdge Pro — Odds API proxy for CORS-free frontend access",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
